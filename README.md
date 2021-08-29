@@ -1,7 +1,5 @@
 Hi, I am Utkrisht Singh, a second year student at Thapar Insitute of Engineering and technology. I am an active member of the Thapar Toastmasters Club, Thapar MUN Society and the Student Alumni Interaction Cell
 
-GIF
-
 Talking about Personal Stuffs:
 
 👨🏽‍💻 I’m currently working on React Projects;
