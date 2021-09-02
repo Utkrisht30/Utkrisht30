@@ -9,9 +9,19 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 👯 I’m interested in **Finance, Data Structures and Algorithms, MERN Stack, competitive programming**
+- 🌱 I’m currently learning **MERN Stack and CP**
+
+- 👯 I’m interested in **Blockchain, ML, DS, Finance, Tech, Fitness, Music, Guitar, Politics, F1, NBA**
 
 - 🤝 I’m looking for help with **MERN Stack and CP**
+
+- 💬 Ask me about **Anything, I am happy to help if I can**
+
+- 📫 How to reach me **usingh_be20@thapar.edu**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JLLx48tpD8Bk_RbOJk8Tf7ZqiIfHiy8r/view?usp=sharing](https://drive.google.com/file/d/1JLLx48tpD8Bk_RbOJk8Tf7ZqiIfHiy8r/view?usp=sharing)
+
+- ⚡ Fun fact **I am a hardcore gym rat💪🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
