@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and CP**
 
-- 👯 I’m interested in **Blockchain, ML, DS, Finance, Tech, Fitness, Music, Guitar, Politics, F1, NBA**
+- 👯 I’m interested in **Blockchain, Finance, Tech, Fitness, Music, Guitar, Politics, F1, NBA**
 
 - 🤝 I’m looking for help with **MERN Stack and CP**
 
